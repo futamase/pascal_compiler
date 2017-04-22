@@ -320,7 +320,7 @@ int translate(std::vector<p1::Tetrad>& tetrads){
     }
   }
   else{
-    output_suitable_load_word();
+    // output_suitable_load_word();
   }
 
 
